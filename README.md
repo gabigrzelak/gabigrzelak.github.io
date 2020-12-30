@@ -4,7 +4,7 @@
 }
 </style></head><body><h1 id="computational-social-science-mooc">Computational Social Science MOOC</h1>
 <h2 id="netlogo-models">Netlogo Models (best viewed on desktop)</h2>
-<h3 id="-experiment-1-https-agarwalmanvi-github-io-mooc-experiment1-html-number-of-fishers"><a href="https://agarwalmanvi.github.io/mooc/experiment1.html">Experiment 1</a> : Number of fishers</h3>
+<h3 id="model-3"><a href="https://github.com/gabigrzelak/gabigrzelak.github.io/blob/module3/Intro_model3_protest_initiators%2Bthreshold.html">Model 3</a> : Initiators + Threshold</h3>
 <h3 id="2b"><a href="https://agarwalmanvi.github.io/mooc/experiment2.html">Experiment 2</a> : Fish growth</h3>
 <h3 id="-experiment-3-https-agarwalmanvi-github-io-mooc-experiment1-html-size-of-ships"><a href="https://agarwalmanvi.github.io/mooc/experiment3.html">Experiment 3</a> : Size of ships</h3>
 <h3 id="-experiment-4-https-agarwalmanvi-github-io-mooc-experiment1-html-satisficing-versus-maximizing-fishers"><a href="https://agarwalmanvi.github.io/mooc/experiment4.html">Experiment 4</a> : Satisficing versus maximizing fishers</h3>
